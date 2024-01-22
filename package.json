@@ -1,0 +1,19 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "tarea 1 programacion web 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "PWII",
+    "tarea1"
+  ],
+  "author": "Javier Argueta",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
